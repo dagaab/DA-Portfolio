@@ -107,7 +107,7 @@ h1 {
 
 .split.left {
     left: 0;
-    background: url('/images/Computer_science_and_engineering.jpeg');
+    background: url('images/Computer_science_and_engineering.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
